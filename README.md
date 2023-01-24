@@ -1,1 +1,2 @@
 # Qwasar-JS
+Kurbonboyev-Doston
